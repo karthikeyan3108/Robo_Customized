@@ -1,7 +1,8 @@
 export default function Home() {
   return (
-    <div className="p-10 text-3xl font-bold">
-      Tailwind + Next.js is working! 🚀
+    <div className="flex items-center justify-center h-screen">
+      <h1 className="text-3xl font-bold">Your App is Deployed Successfully!</h1>
     </div>
   );
 }
+
